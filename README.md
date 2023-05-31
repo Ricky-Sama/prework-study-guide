@@ -1,2 +1,21 @@
-# prework-study-guide
-A study guide for course pre-work.
+# The Best Prework Study Guide on the Internet
+
+## Description
+
+This Prework Study Guide was designed by a new boot camp student for newer boot camp students who were going through the Prework. It contains many some of the most sought after notes in coding that includes HTML, CSS, Git, and JavaScript.
+
+## Installation
+
+N/A
+
+## Usage
+
+In order to use this Prework Study Guide properly, please review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
