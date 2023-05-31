@@ -2,7 +2,7 @@
 
 ## Description
 
-This Prework Study Guide was designed by a new boot camp student for newer boot camp students who were going through the Prework. It contains many some of the most sought after notes in coding that includes HTML, CSS, Git, and JavaScript.
+This Prework Study Guide was designed by a new boot camp student for newer boot camp students who were going through the Prework. It contains some of the most sought after notes in coding that includes HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
